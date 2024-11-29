@@ -1,0 +1,9 @@
+## Interface: 30305
+## Author: Karmond
+## Title: SpeedrunSplits
+## Notes: Tracks /played time per level onscreen
+## Version: 2.4
+## OptionalDeps: 
+## SavedVariables: SpeedrunSplitsPB, SpeedrunSplitsGold, SpeedrunSplitsOptions
+## SavedVariablesPerCharacter: SpeedrunSplits
+SpeedrunSplits.lua
